@@ -4,7 +4,7 @@
  
 
  
-@section{Content}
+@section[#:style 'unnumbered]{Content}
 @itemlist[#:style 'ordered
           @item{@(hyperlink "./2018-lecture-1.pdf" "Introduction/Motivation")}
           @item{Introduction to Machine Learning: A Bayesian View}
@@ -18,12 +18,11 @@
           @item{Reinforcement Learning III}
           @item{Selected Robotic Applications}]
 
-Lecture slides will be added soon after the lecture. The @bold{password} for the slides is communicated in
-the lecture.
+Lecture slides will be added soon after the lecture. The @bold{password} for the slides is communicated in the lecture.
 
-@section{Materials}
+@section[#:style 'unnumbered]{Materials}
 
-@itemlist[#:style 'ordered
+@itemlist[
           @item{@(hyperlink "http://www.deeplearningbook.org" "I. Goodfellow, Y. Bengio and A. Courville. Deep Learning. MIT Press, 2016. ")}
           @item{Christopher M. Bishop. Pattern Recognition and Machine Learning. Springer, 2006.}
           @item{Kevin Murphy. “Machine Learning: A Probabilistic Perspective”, MIT Press 2012 }]
