@@ -7,7 +7,7 @@
 @section[#:style 'unnumbered]{Content}
 @itemlist[#:style 'ordered
           @item{@(hyperlink "./2018-lecture-1.pdf" "Introduction/Motivation")}
-          @item{Introduction to Machine Learning: A Bayesian View}
+          @item{@(hyperlink "./2018-lecture-1.pdf" "Recap of Machine Learning: A Bayesian View")}
           @item{Advanced Network Architectures}
           @item{Generalization & Robustness: Adversarial Training}
           @item{Bayesian Deep Learning}
