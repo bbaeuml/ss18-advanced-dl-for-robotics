@@ -9,7 +9,8 @@
           @item{@(hyperlink "./2018-lecture-1.pdf" "Introduction/Motivation")}
           @item{@(hyperlink "./2018-lecture-2.pdf" "Recap of Machine Learning: A Bayesian View")}
           @item{@(hyperlink "./2018-lecture-3.pdf" "Recap DL & CNN and Advanced Network Architectures")}
-          @item{Generalization & Robustness: Adversarial Training}
+          @item{@(hyperlink "./2018-lecture-4.pdf" "Advanced Network Architectures II")}
+          @item{Generalization & Robustness, Adversarial Examples & Training}
           @item{Bayesian Deep Learning}
           @item{Transfer & Semi-Supervised Learning}
           @item{Learning Generative Models: GANs & Autoencoder}
