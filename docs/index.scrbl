@@ -12,8 +12,8 @@
           @item{@(hyperlink "./2018-lecture-4.pdf" "Advanced Network Architectures II")}
           @item{@(hyperlink "./2018-lecture-5.pdf" "Generalization & Robustness, Adversarial Examples & Training")}         
           @item{Bayesian Deep Learning}
-          @item{Transfer & Semi-Supervised Learning}
-          @item{Learning Generative Models: GANs & Autoencoder}
+          @item{Generative Models: Variational Autoencoder & Generative Adversarial Networks}
+          @item{Transfer & Semi-Supervised Learning}         
           @item{Reinforcement Learning I}
           @item{Reinforcement Learning II}
           @item{Reinforcement Learning III}
