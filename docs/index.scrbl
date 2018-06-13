@@ -11,13 +11,11 @@
           @item{@(hyperlink "./2018-lecture-3.pdf" "Recap DL & CNN and Advanced Network Architectures")}
           @item{@(hyperlink "./2018-lecture-4.pdf" "Advanced Network Architectures II")}
           @item{@(hyperlink "./2018-lecture-5.pdf" "Generalization & Robustness, Adversarial Examples & Training")}         
-          @item{Bayesian Deep Learning}
+          @item{@(hyperlink "./2018-lecture-6-part.pdf" "Bayesian Deep Learning")}                
           @item{Generative Models: Variational Autoencoder & Generative Adversarial Networks}
           @item{Transfer & Semi-Supervised Learning}         
           @item{Reinforcement Learning I}
-          @item{Reinforcement Learning II}
-          @item{Reinforcement Learning III}
-          @item{Selected Robotic Applications}]
+          @item{Reinforcement Learning II}]
 
 Lecture slides will be added soon after the lecture. The @bold{password} for the slides is communicated in the lecture.
 
