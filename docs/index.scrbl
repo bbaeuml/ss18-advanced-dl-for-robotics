@@ -30,3 +30,10 @@ Lecture slides will be added soon after the lecture. The @bold{password} for the
 @section[#:style 'unnumbered]{References}
 
 @(hyperlink "./literature.pdf" "References cited in the slides.")
+
+@section[#:style 'unnumbered]{Exam}
+@itemlist[
+          @item{Hints for the exam have been given in lecture 9 (look in the slides)}
+          @item{To get an idea of what style of questions to expect you can here find the exam from last year's introductory (!!!) lecture on Deep Learning in Robotics. So, the content of the exam of this year's advanced (!!!) lecture will differ, but the style  will be similar.}]
+
+@(hyperlink "./introduction-exam.pdf" "Sample exam of last year's introductory course")
