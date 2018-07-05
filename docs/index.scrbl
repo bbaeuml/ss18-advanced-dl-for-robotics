@@ -14,8 +14,8 @@
           @item{@(hyperlink "./2018-lecture-6.pdf" "Bayesian Deep Learning")}        
            @item{@(hyperlink "./2018-lecture-7.pdf" "Generative Models: Variational Autoencoder & Generative Adversarial Networks")}
            @item{(Transfer & Semi-Supervised Learning) skipped due to too many holidays}
-           @item{@(hyperlink "./2018-lecture-9.pdf" "Deep Reinforcement Learning")}                               
-          @item{Reinforcement Learning II}]
+           @item{@(hyperlink "./2018-lecture-9.pdf" "Deep Reinforcement Learning")}
+           @item{@(hyperlink "./2018-lecture-10.pdf" "Deep Reinforcement Learning II")}]
 
 Lecture slides will be added soon after the lecture. The @bold{password} for the slides is communicated in the lecture.
 
